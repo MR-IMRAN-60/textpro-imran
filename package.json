@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MR-NAYAN-404/NAYAN-SERVER.git"
+    "url": "git+https://github.com/MR-IMRAN-60/textpro-imran.git"
   },
   "keywords": [
     "textpro",
@@ -17,9 +17,9 @@
   "author": "IMRAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MR-NAYAN-404/NAYAN-SERVER/issues"
+    "url": "https://github.com/MR-IMRAN-60/textpro-imran/issues"
   },
-  "homepage": "https://github.com/MR-NAYAN-404/NAYAN-SERVER#readme",
+  "homepage": "https://github.com/MR-IMRAN-60/textpro-imran#readme",
   "dependencies": {
     "got": "^11.8.3",
     "cheerio": "~1.0.0-rc.5",
